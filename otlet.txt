@@ -2,3 +2,17 @@
 - mások involválása
 - különböző részek szétbontása más-más oldalakra
 - osztályfotók használata beleegyezéssel
+
+
+
+
+
+-külön oldalak:
+    -Az első 9. osztály fontosabb élményei képekben.
+    -Menü/Rólunk
+
+
+-dizájn ötletek:
+    -legördülő Menü
+    -albim szerű megvalósítás a "képes" oldalhoz
+    -egyszerű pár színből álló oldal/lehetőleg világos színekkel akár
